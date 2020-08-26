@@ -23,3 +23,4 @@ This is all you have right now:
 - An in-memory database is enough for this moment (H2)file:/D:/workspaces/KarrosTech-SWE-Challenge/sample/sample.gpx
 
 Sample postman collection: https://www.getpostman.com/collections/06d785d20fe91b7366d0
+UML: /uml/*.png
